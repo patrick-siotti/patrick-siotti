@@ -1,7 +1,7 @@
 <h1>SEJA BEM VINDO 👋</h1>
 <div>
   <h2>um pouco sobre mim</h2>
-  <p>atualmente estou estudando criação de site, mas irei focar posteriormente em analise de dados</p>
+  <p>estou atualmente focando no estudo de engenharia de dados</p>
   <p>moro em SC</p>
   <p>programo desde pequeno</p>
 </div>
