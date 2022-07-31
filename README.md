@@ -26,6 +26,7 @@
   <h2>principais repositórios</h2>
   <a href="https://github.com/patrick-siotti/projetos_python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos_python&theme=dark" width="350"></a>
   <a href="https://github.com/patrick-siotti/projeto-sites"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projeto-sites&theme=dark" width="350"></a>
+  <a href="https://github.com/patrick-siotti/site-pessoal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=site-pessoal&theme=dark" width="350"></a>
 </div>
 <div>
   <h2>me contate</h2>
