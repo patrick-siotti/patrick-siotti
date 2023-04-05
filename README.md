@@ -42,4 +42,6 @@
   <p>whats: 47 92423806</p>
   <p>discord: Purple-Senpai#7642</p>
   <p>email: patrickgsiotti@gmail.com</p>
+  linkedin: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="patrick-gianluppi-siotti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/patrick-gianluppi-siotti?trk=profile-badge">patrick gianluppi siotti</a></div>
+              
 </div>
