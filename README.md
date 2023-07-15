@@ -7,7 +7,7 @@
   <p>Sou apaixonado em programação e sou facinado em inteligencia artificial.</p>
   <h1></h1>
   <div>
-    <p>principais linguagens que uso:</p>
+    <p>principais tecnologias que uso:</p>
     <p>Em python: Tenho conhecimento de todo o basico (bibliotecas, dicionarios, listas, if elif else, repetições, etc), tendo conhecimento de objetos e algumas bibliotecas: flask, github, selenium, telegram, discord, etc. E muitas bibliotecas já incluidas no python como: os, time, random, etc.</p>
     <p>Em web: Em criação web, esotou mais familiarizado com o front end, gosto muito de brincar com css. Em html5 tenho conhecimento de todo o basico e a logica por tras, no css3 tenho conhecimento basico sobre tudo, mas se precisso fazer algo a mais, não fico intimidado, e vou atras fazer.</p>
     <p>Em Bubble: Bubble facilita muito minha vida quando o assunto é criação web. Tenho liberdade para brincar um pouco com o front end e ainda a facilidade de que o back end vai ser resolvido de forma rapida e agil.</p>
