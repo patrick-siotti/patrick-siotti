@@ -1,16 +1,16 @@
 <h1>SEJA BEM VINDO 👋</h1>
 <div>
-  <h2>um pouco sobre mim</h2>
-  <p>me chamo patrick</p>
-  <p>moro em SC</p>
-  <p>programo desde pequeno</p>
-  <p>sou apaixonado em programação e sou facinado em inteligencia artificial</p>
+  <h2>um pouco sobre mim:</h2>
+  <p>Me chamo patrick.</p>
+  <p>Moro em SC.</p>
+  <p>Programo desde pequeno.</p>
+  <p>Sou apaixonado em programação e sou facinado em inteligencia artificial.</p>
   <h1></h1>
   <div>
     <p>principais linguagens que uso:</p>
     <p>Em python: Tenho conhecimento de todo o basico (bibliotecas, dicionarios, listas, if elif else, repetições, etc), tendo conhecimento de objetos e algumas bibliotecas: flask, github, selenium, telegram, discord, etc. E muitas bibliotecas já incluidas no python como: os, time, random, etc.</p>
     <p>Em web: Em criação web, esotou mais familiarizado com o front end, gosto muito de brincar com css. Em html5 tenho conhecimento de todo o basico e a logica por tras, no css3 tenho conhecimento basico sobre tudo, mas se precisso fazer algo a mais, não fico intimidado, e vou atras fazer.</p>
-    <p>Estou estudando atualmente engenharia de dados, gosto muito dessa área e quero aproveitar o maximo dela.</p>
+    <p>Em Bubble: Bubble facilita muito minha vida quando o assunto é criação web. Tenho liberdade para brincar um pouco com o front end e ainda a facilidade de que o back end vai ser resolvido de forma rapida e agil.</p>
   </div>
 </div>
 <div>
@@ -39,8 +39,7 @@
 </div>
 <div>
   <h2>me contate</h2>
-  <p>whats: 47 92423806</p>
-  <p>discord: Purple-Senpai#7642</p>
+  <p>whats: 47 992423806</p>
   <p>email: patrickgsiotti@gmail.com</p>
   linkedin: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="patrick-gianluppi-siotti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/patrick-gianluppi-siotti?trk=profile-badge">patrick gianluppi siotti</a></div>
               
