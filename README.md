@@ -32,10 +32,9 @@
 </div>
 <div>
   <h2>principais repositórios</h2>
+  <a href="https://github.com/patrick-siotti/projetos-bubble.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-bubble.io&theme=dark" width="350"></a>
   <a href="https://github.com/patrick-siotti/projetos-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-python&theme=dark" width="350"></a>
   <a href="https://github.com/patrick-siotti/projetos-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-site&theme=dark" width="350"></a>
-  <a href="https://github.com/patrick-siotti/site-pessoal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=site-pessoal&theme=dark" width="350"></a>
-  <a href="https://github.com/patrick-siotti/Magic_Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=Magic_Bot&theme=dark" width="350"></a>
 </div>
 <div>
   <h2>me contate</h2>
