@@ -1,16 +1,16 @@
 <h1>SEJA BEM VINDO 👋</h1>
 <div>
   <h2>um pouco sobre mim:</h2>
-  <p>Me chamo patrick.</p>
+  <p>Me chamo Patrick.</p>
   <p>Moro em SC.</p>
   <p>Programo desde pequeno.</p>
-  <p>Sou apaixonado em programação e sou facinado em inteligencia artificial.</p>
+  <p>Sou apaixonado em programação e sou fascinado em inteligência artificial.</p>
   <h1></h1>
   <div>
     <p>principais tecnologias que uso:</p>
-    <p>Em python: Tenho conhecimento de todo o basico (bibliotecas, dicionarios, listas, if elif else, repetições, etc), tendo conhecimento de objetos e algumas bibliotecas: flask, github, selenium, telegram, discord, etc. E muitas bibliotecas já incluidas no python como: os, time, random, etc.</p>
-    <p>Em web: Em criação web, esotou mais familiarizado com o front end, gosto muito de brincar com css. Em html5 tenho conhecimento de todo o basico e a logica por tras, no css3 tenho conhecimento basico sobre tudo, mas se precisso fazer algo a mais, não fico intimidado, e vou atras fazer.</p>
-    <p>Em Bubble: Bubble facilita muito minha vida quando o assunto é criação web. Tenho liberdade para brincar um pouco com o front end e ainda a facilidade de que o back end vai ser resolvido de forma rapida e agil.</p>
+    <p>Em python: Tenho conhecimento bem sólido, pois uso ela há alguns anos, já fiz pequenos projetos utilizando: flask, github, selenium, telegram, discord, etc. Com flask costumo fazer sistemas de api, mas já fiz pequenos sites; com o github já fiz um sistema de backup automático de versões de um aplicativo; selenium para webscrap e automação web; telegram, dez de loja (com sistema de pagamento do asaas), até um sistema completo de rpg e rolagem de dados; no discord, um sisteminha de compra e venda de itens e cargos, onde poderia até te dar dinheiro real.</p>
+    <p>Em web: Em criação web, estou mais familiarizado com o front end, gosto muito de brincar com css, em html5 tenho conhecimento de todo o básico e a lógica por traz, no css3 tenho conhecimento básico sobre tudo, mas se precisos fazer algo a mais, não fico intimidado, e vou atrás fazer.</p>
+    <p>Em Bubble: Bubble facilita muito minha vida quando o assunto é criação web. Tenho liberdade para brincar um pouco com o front end e ainda a facilidade de que o back end será resolvido de forma rápida e ágil. Atualmente fiz apenas projetos pequenos nele, mas já estou planejando grandes projetos.</p>
   </div>
 </div>
 <div>
