@@ -16,7 +16,8 @@
 <div>
   <h2>alguns conhecimentos:</h2>
   <a href="https://pt.wikipedia.org/wiki/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"></a>
-  <a href="https://pt.wikipedia.org/wiki/CSS3#:~:text=CSS3%20é%20a%20terceira%20mais,web%20(página%20de%20internet)."><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40"></a>
+  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40"></a>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" width="40"></a>
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"></a>
   <a href="https://flask.palletsprojects.com/en/2.1.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"></a>
   <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"></a>
