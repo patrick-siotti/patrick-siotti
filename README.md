@@ -2,14 +2,15 @@
 <div>
   <h2>um pouco sobre mim:</h2>
   <p>Me chamo Patrick.</p>
-  <p>Moro em SC.</p>
+  <p>Moro no RN.</p>
   <p>Programo desde pequeno.</p>
   <p>Sou apaixonado em programação e sou fascinado em inteligência artificial.</p>
+  <p>sou freelancer a 5 anos em diferentes sites e projetos</p>
   <h1></h1>
   <div>
     <p>principais tecnologias que uso:</p>
-    <p>Em python: Tenho conhecimento bem sólido, pois uso ela há alguns anos, já fiz pequenos projetos utilizando: flask, github, selenium, telegram, discord, etc. Com flask costumo fazer sistemas de api, mas já fiz pequenos sites; com o github já fiz um sistema de backup automático de versões de um aplicativo; selenium para webscrap e automação web; telegram, dez de loja (com sistema de pagamento do asaas), até um sistema completo de rpg e rolagem de dados; no discord, um sisteminha de compra e venda de itens e cargos, onde poderia até te dar dinheiro real.</p>
-    <p>Em web: Em criação web, estou mais familiarizado com o front end, gosto muito de brincar com css, em html5 tenho conhecimento de todo o básico e a lógica por traz, no css3 tenho conhecimento básico sobre tudo, mas se precisos fazer algo a mais, não fico intimidado, e vou atrás fazer.</p>
+    <p>Em python: Tenho conhecimento bem sólido, pois uso ela há alguns anos, já fiz pequenos projetos utilizando: flask, github, selenium, telegram, discord, django, etc. Com flask costumo fazer sistemas de api, mas já fiz pequenos sites; com o github já fiz um sistema de backup automático de versões de um aplicativo, e um site com versões de todos meus codigos retirados automaticamente do github; selenium e requests para webscrap e automação web; telegram, dez de loja (com sistema de pagamento do asaas), até um sistema completo de rpg e rolagem de dados; no discord, um sisteminha de compra e venda de itens e cargos, onde poderia até te dar dinheiro real, com django, um sistema de pesquisa de noticia avançado que utiliza inteligencia artificial.</p>
+    <p>Em web: Em criação web, estou mais familiarizado com o front end, gosto muito de brincar com css, em html5 tenho conhecimento de todo o básico e a lógica por traz, no css3 tenho conhecimento básico sobre tudo, mas se precisos fazer algo a mais, não fico intimidado, e vou atrás fazer. Javascript tenho conhecimento do basico</p>
     <p>Em Bubble: Bubble facilita muito minha vida quando o assunto é criação web. Tenho liberdade para brincar um pouco com o front end e ainda a facilidade de que o back end será resolvido de forma rápida e ágil. Atualmente fiz apenas projetos pequenos nele, mas já estou planejando grandes projetos.</p>
   </div>
 </div>
