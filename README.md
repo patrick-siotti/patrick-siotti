@@ -3,10 +3,14 @@
 <div>
   <img align="right", src="https://gist.githubusercontent.com/patrick-siotti/46f4e22cb407d04008d14a4be9325ab9/raw/54e7cd03df670e99f55c4cef4137d041de9dd4d8/placa_patrick.svg">
   <div>
-    <p>principais tecnologias que uso:</p>
-    <p>Em python: Tenho conhecimento bem sólido, pois uso ela há alguns anos, já fiz pequenos projetos utilizando: flask, github, selenium, telegram, discord, django, etc. Já fiz diferentes tipos de automações, aplicativos e sites. Infelizmente não consigo colocar tudo o que já fiz, estando um pouco desatualizado meu git, mas tenho certeza que consigo resolver seu problema.</p>
-    <p>Em web: Em criação web, tenho conhecimento de todo o básico de html5 e a lógica por traz, no css3 tenho conhecimento básico sobre tudo, mas se precisos fazer algo a mais, não fico intimidado, e vou atrás fazer. Javascript tenho conhecimento do basico. Com pacotes como Flask e DJango já utilizei em alguns projetos diversos.</p>
-    <p>Em Bubble: Bubble facilita muito minha vida quando o assunto é criação web. Tenho liberdade para brincar um pouco com o front end e ainda a facilidade de que o back end será resolvido de forma rápida e ágil. Atualmente fiz apenas projetos pequenos nele.</p>
+    <p>principais tecnologias que uso:</p> 
+    <p>Em Python: conhecimento sólido, pois uso há alguns anos, já fiz projetos utilizando Flask, Django, Selenium, Playwright, Requests, Websocket e também tenho experiência em web scraping.</p> 
+    <p>Em HTML, CSS e JS: Possuo conhecimento básico em HTML5, CSS3 e JavaScript, mas estou disposto a aprender e aplicar novos conceitos.</p> 
+    <p>No Git: Tenho experiência em utilizá-lo para controle de versão de projetos.</p> 
+    <p>No Linux: Possuo conhecimentos em utilização do sistema operacional Linux e seu terminal, já tendo utilizado como OS principal.</p> 
+    <p>Em SQL: conhecimentos em consultas e manipulação de dados utilizando SQL.</p> 
+    <p>Em Lua: experiência em programação utilizando a linguagem Lua, já tendo feito pequenos cheats e jogos basicos.</p> 
+    <p>Já fiz várias automações e tenho 5 anos de experiência como freelancer.</p>
   </div>
 </div>
 <div>
