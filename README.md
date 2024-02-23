@@ -19,6 +19,10 @@
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" width="120" height="35"></a>
   <a href="https://pt.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" width="120" height="35"></a>
   <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117" width="120" height="35"></a>
+  <a href="https://aws.amazon.com/pt/what-is/sql/"><img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" width="120" height="35"></a>
+  <a href="https://www.lua.org"><img src="https://img.shields.io/badge/-lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117" width="120" height="35"></a>
+  <a href="https://playwright.dev/python/"><img src="https://img.shields.io/badge/-playwright-0D1117?style=for-the-badge&logo=playwright&labelColor=0D1117" width="120" height="35"></a>
+  <a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117" width="120" height="35"></a>
 </div>
 <div>
   <h2>um overview sobre meu github</h2>
