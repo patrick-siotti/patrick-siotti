@@ -13,6 +13,7 @@
     <p>Já fiz várias automações e tenho 5 anos de experiência como freelancer.</p>
   </div>
 </div>
+<br><br><br>
 <div>
   <h2>alguns conhecimentos:</h2>
   <a href="https://pt.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" width="120" height="35"></a>
@@ -28,11 +29,13 @@
   <a href="https://playwright.dev/python/"><img src="https://img.shields.io/badge/-playwright-0D1117?style=for-the-badge&logo=playwright&labelColor=0D1117" width="120" height="35"></a>
   <a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117" width="120" height="35"></a>
 </div>
+<br><br>
 <div>
   <h2>um overview sobre meu github</h2>
   <a href="https://github.com/patrick-siotti"><img src="https://github-readme-stats.vercel.app/api?username=patrick-siotti&show_icons=true&theme=dark" width="355"></a>
   <a href="https://github.com/patrick-siotti"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-siotti&layout=compact&theme=dark" width="350"></a>
 </div>
+<br><br>
 <div>
   <h2>principais repositórios</h2>
   <a href="https://github.com/patrick-siotti/projetos-bubble.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-bubble.io&theme=dark" width="350"></a>
