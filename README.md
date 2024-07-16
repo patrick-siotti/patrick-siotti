@@ -44,7 +44,7 @@
 </div>
 <div>
   <h2>me contate</h2>
-  <p>whats: 47 992423806</p>
+  <p>whats: 84 9 87541801</p>
   <p>email: patrickgsiotti@gmail.com</p>
   <!-- <p>portifolio: <a href='https://portiflio-76614.bubbleapps.io/version-test'>https://portiflio-76614.bubbleapps.io/version-test</a></p> -->
   linkedin: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="patrick-gianluppi-siotti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/patrick-gianluppi-siotti?trk=profile-badge">patrick gianluppi siotti</a></div>
