@@ -4,13 +4,13 @@
   <img align="right", src="https://gist.githubusercontent.com/patrick-siotti/46f4e22cb407d04008d14a4be9325ab9/raw/54e7cd03df670e99f55c4cef4137d041de9dd4d8/placa_patrick.svg">
   <div>
     <p>principais tecnologias que uso:</p> 
-    <p>Em Python: conhecimento sólido, pois uso há alguns anos, já fiz projetos utilizando Flask, Django, Selenium, Playwright, Requests, Websocket e também tenho experiência em web scraping.</p> 
+    <p>Em Python: conhecimento sólido, pois uso há alguns anos, já fiz projetos utilizando Flask, Django, FastAPI, FastHTML, Selenium, Playwright, Peewee, Requests, Websocket; Com experiencia sólida em automação e websccrapy.</p> 
     <p>Em HTML, CSS e JS: Possuo conhecimento básico em HTML5, CSS3 e JavaScript, mas estou disposto a aprender e aplicar novos conceitos.</p> 
     <p>No Git: Tenho experiência em utilizá-lo para controle de versão de projetos.</p> 
     <p>No Linux: Possuo conhecimentos em utilização do sistema operacional Linux e seu terminal, já tendo utilizado como OS principal.</p> 
     <p>Em SQL: conhecimentos em consultas e manipulação de dados utilizando SQL.</p> 
     <p>Em Lua: experiência em programação utilizando a linguagem Lua, já tendo feito pequenos cheats e jogos basicos.</p> 
-    <p>Já fiz várias automações e tenho 5 anos de experiência como freelancer.</p>
+    <p>Já fiz várias automações e tenho 6 anos de experiência como freelancer.</p>
   </div>
 </div>
 <br><br><br>
@@ -39,8 +39,8 @@
 <div>
   <h2>principais repositórios</h2>
   <a href="https://github.com/patrick-siotti/projetos-bubble.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-bubble.io&theme=dark" width="350"></a>
-  <a href="https://github.com/patrick-siotti/projetos-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-python&theme=dark" width="350"></a>
-  <a href="https://github.com/patrick-siotti/projetos-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-site&theme=dark" width="350"></a>
+  <a href="https://github.com/patrick-siotti/projetos-python-antigo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-python&theme=dark" width="350"></a>
+  <a href="https://github.com/patrick-siotti/projetos-site-html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-site&theme=dark" width="350"></a>
 </div>
 <div>
   <h2>me contate</h2>
