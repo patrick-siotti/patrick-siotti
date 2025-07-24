@@ -1,52 +1,150 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FE207B,100:ffbf60&text=Seja%20bem%20vindo&fontAlign=50&fontAlignY=30&desc=ao%20meu%20portifólio👋&descAlignY=50">
+<div id="header" align="center">
+  <h1>
+    Olá, me chamo Patrick Siotti 👋
+  </h1>
+  <p>
+    <strong>Desenvolvedor Python & Engenheiro de Software</strong>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/patrick-gianluppi-siotti" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:patrickgsiotti@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5584987541801" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-<div>
-  <img align="right", src="https://gist.githubusercontent.com/patrick-siotti/46f4e22cb407d04008d14a4be9325ab9/raw/54e7cd03df670e99f55c4cef4137d041de9dd4d8/placa_patrick.svg">
-  <div>
-    <p>principais tecnologias que uso:</p> 
-    <p>Em Python: conhecimento sólido, pois uso há alguns anos, já fiz projetos utilizando Flask, Django, FastAPI, FastHTML, Selenium, Playwright, Peewee, Requests, Websocket; Com experiencia sólida em automação e websccrapy.</p> 
-    <p>Em HTML, CSS e JS: Possuo conhecimento básico em HTML5, CSS3 e JavaScript, mas estou disposto a aprender e aplicar novos conceitos.</p> 
-    <p>No Git: Tenho experiência em utilizá-lo para controle de versão de projetos.</p> 
-    <p>No Linux: Possuo conhecimentos em utilização do sistema operacional Linux e seu terminal, já tendo utilizado como OS principal.</p> 
-    <p>Em SQL: conhecimentos em consultas e manipulação de dados utilizando SQL.</p> 
-    <p>Em Lua: experiência em programação utilizando a linguagem Lua, já tendo feito pequenos cheats e jogos basicos.</p> 
-    <p>Já fiz várias automações e tenho 6 anos de experiência como freelancer.</p>
-  </div>
-</div>
-<br><br><br>
-<div>
-  <h2>alguns conhecimentos:</h2>
-  <a href="https://pt.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://pt.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://flask.palletsprojects.com/en/2.1.x/"><img src="https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://pt.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://aws.amazon.com/pt/what-is/sql/"><img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://www.lua.org"><img src="https://img.shields.io/badge/-lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://playwright.dev/python/"><img src="https://img.shields.io/badge/-playwright-0D1117?style=for-the-badge&logo=playwright&labelColor=0D1117" width="120" height="35"></a>
-  <a href="https://www.selenium.dev"><img src="https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117" width="120" height="35"></a>
-</div>
-<br><br>
-<div>
-  <h2>um overview sobre meu github</h2>
-  <a href="https://github.com/patrick-siotti"><img src="https://github-readme-stats.vercel.app/api?username=patrick-siotti&show_icons=true&theme=dark" width="355"></a>
-  <a href="https://github.com/patrick-siotti"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-siotti&layout=compact&theme=dark" width="350"></a>
-</div>
-<br><br>
-<div>
-  <h2>principais repositórios</h2>
-  <a href="https://github.com/patrick-siotti/projetos-bubble.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-bubble.io&theme=dark" width="350"></a>
-  <a href="https://github.com/patrick-siotti/projetos-python-antigo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-python&theme=dark" width="350"></a>
-  <a href="https://github.com/patrick-siotti/projetos-site-html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=patrick-siotti&repo=projetos-site&theme=dark" width="350"></a>
-</div>
-<div>
-  <h2>me contate</h2>
-  <p>whats: 84 9 87541801</p>
-  <p>email: patrickgsiotti@gmail.com</p>
-  <!-- <p>portifolio: <a href='https://portiflio-76614.bubbleapps.io/version-test'>https://portiflio-76614.bubbleapps.io/version-test</a></p> -->
-  linkedin: <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="patrick-gianluppi-siotti" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/patrick-gianluppi-siotti?trk=profile-badge">patrick gianluppi siotti</a></div>
-              
-</div>
+---
+
+### 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor com **8 anos de experiência** na criação de soluções digitais e **6 anos atuando como freelancer**, entregando projetos sob medida para diversos clientes. Minha paixão é transformar ideias complexas em software funcional, com foco em código limpo, eficiente e manutenível.
+
+Minha linguagem principal é **Python**, na qual possuo mais de 5 anos de experiência. Atualmente, há mais de um ano, integro a equipe da **Tekmaquinas**, uma consolidada empresa alemã com operações em toda a Europa, onde aplico minhas habilidades em um ambiente de alto padrão e com foco em tecnologia de ponta.
+
+Acredito que a qualidade do software não está apenas no que ele faz, mas em como ele é construído. Por isso, adoto práticas de engenharia de software modernas em todos os meus projetos.
+
+---
+
+### 🛠️ Habilidades e Tecnologias
+
+<p align="left">
+  <strong>Linguagens & Banco de Dados:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,nodejs,html,css,js,ts,mysql,postgresql,sqlite" />
+  </a>
+</p>
+<p align="left">
+  <strong>Frameworks & Bibliotecas:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,selenium" />
+  </a>
+</p>
+<p align="left">
+  <strong>DevOps, Cloud & Ferramentas:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,arch,postman,vscode,gcp,discord" />
+  </a>
+</p>
+<p align="left">
+  <strong>IA & Outros:</strong><br>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20Scraping-007396?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-siotti&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-siotti&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📌 Projetos em Destaque
+
+Devido a contratos de confidencialidade com clientes (freelance) e com a Tekmaquinas, a maioria dos meus projetos profissionais não pode ser exibida publicamente. No entanto, criei projetos de estudo que demonstram minhas habilidades e a qualidade do meu trabalho.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/patrick-siotti/estudo-de-engenharia-de-software">
+          🔹 Estudo de Engenharia de Software com Python
+        </a>
+      </h3>
+      <p>
+        Este não é apenas um projeto, mas um <strong>demonstrativo prático</strong> de como construir software Python moderno. Ele aborda um fluxo de trabalho completo, desde a escrita de código robusto até a distribuição.
+      </p>
+      <ul>
+        <li><strong>Qualidade de Código:</strong> 100% tipado com Mypy e testado com Pytest.</li>
+        <li><strong>Gerenciamento Profissional:</strong> Uso do Poetry para garantir ambientes de desenvolvimento idênticos.</li>
+        <li><strong>Reprodutibilidade Total:</strong> Containerizado com Docker para rodar em qualquer lugar.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        🗂️ Arquivo de Projetos Antigos
+      </h3>
+      <p>
+        Repositórios que contêm uma coleção de projetos mais antigos, demonstrando a evolução das minhas habilidades ao longo do tempo.
+      </p>
+      <ul>
+        <li>
+          <a href="https://github.com/patrick-siotti/temp-email">
+            <strong>Web Scraper de E-mail Temporário</strong>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/patrick-siotti/projetos-python-antigo">
+            <strong>Projetos Python Antigos</strong>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/patrick-siotti/projetos-site-html">
+            <strong>Projetos Web (HTML/CSS)</strong>
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/patrick-siotti/projetos-bubble.io">
+            <strong>Projetos No-Code (Bubble.io)</strong>
+          </a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Entre em Contato
+
+Estou sempre aberto a novas oportunidades, projetos de freelance e colaborações. Vamos conversar!
+
+<p>
+  <a href="https://www.linkedin.com/in/patrick-gianluppi-siotti" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:patrickgsiotti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5584987541801" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
